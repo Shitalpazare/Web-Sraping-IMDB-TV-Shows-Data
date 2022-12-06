@@ -8,7 +8,7 @@ Requests installation depends on the type of operating system, the basic command
 pip install requests
 
 Making a Request
-Python requests module has several built-in methods to make HTTP requests to specified URI using GET, POST, PUT, PATCH, or HEAD requests. A HTTP request is meant to either retrieve data from a specified URI or to push data to a server. It works as a request-response protocol between a client and a server. 
+Python requests module has several built-in methods to make HTTP requests to specified URI using GET. A HTTP request is meant to either retrieve data from a specified URI or to push data to a server. It works as a request-response protocol between a client and a server. 
 Here we will be using the GET request. 
 
 GET method is used to retrieve information from the given server using a given URI. The GET method sends the encoded user information appended to the page request. 
